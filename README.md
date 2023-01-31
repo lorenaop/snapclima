@@ -6,7 +6,7 @@ O Snapclima é um app para se informar sobre o clima no momento atual de onde qu
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|;&nbsp;&nbsp&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|;&nbsp;&nbsp;
 </p>
 
 <br>
@@ -30,5 +30,4 @@ O Snapclima foi um projeto muito legal de fazer, onde eu usei a metodologia BEM 
 
 - [Visite o projeto online](https://lorenaop.github.io/snapclima/)
 
-)
 
